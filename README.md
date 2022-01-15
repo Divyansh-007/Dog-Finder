@@ -1,5 +1,5 @@
 # Dog Finder
-<b>Link:</b> https://findwoof.herokuapp.com/
+<b>Link:</b>  https://divyansh-007.github.io/Dog-Finder/
 
 For all the dog lovers, created a small project to fetch the image of any dog breed selected.
 
